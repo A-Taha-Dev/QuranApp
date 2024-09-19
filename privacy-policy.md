@@ -1,7 +1,7 @@
 Privacy Policy
 
-I do not take your privacy lightly. To clarify how your personal information is not collected or used,
-this privacy policy will explain in negative terms how your data is handled.
+I take your privacy seriously. To clarify how your personal information is managed, this privacy policy explains what data is collected, how it is used, and how it is stored. The goal is to ensure transparency and build trust with users regarding their data privacy.
+
 
 Local Data Storage
 This app uses SharedPreferences to store local data on the user’s device.
